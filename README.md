@@ -1,13 +1,15 @@
 # cs-study
 
-🔥 [rnjshippo](https://github.com/rnjshippo)<br>
-🔥 [sdy1423](https://github.com/sdy1423)
+## 🔥 **멤버**
 
-## **원본 repo**
+- [rnjshippo](https://github.com/rnjshippo)
+- [sdy1423](https://github.com/sdy1423)
+
+## 🔗 **원본 repo**
 
 - https://github.com/JaeYeopHan/Interview_Question_for_Beginner
 
-## **계획**
+## 📑 **계획**
 
 - 하루에 하나의 주제를 공부하고 내용을 정리해서 작성
 
